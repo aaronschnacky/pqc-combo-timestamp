@@ -1,0 +1,9 @@
+[package]
+name = "pqc-combo-timestamp"
+version = "0.0.1"
+edition = "2021"
+description = "Official pqc-combo-timestamp library. Integrates the pqc-combo library."
+license = "MIT"
+authors = ["Aaron Schnacky <aaronschnacky@gmail.com>"]
+homepage = "https://www.pqc-combo.com/"
+repository = "https://github.com/aaronschnacky/pqc-combo-timestamp"
